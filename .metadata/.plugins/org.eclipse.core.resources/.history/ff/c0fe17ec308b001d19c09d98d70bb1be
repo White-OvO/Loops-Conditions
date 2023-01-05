@@ -1,0 +1,13 @@
+
+public class week4Project {
+
+	public static void main(String[] args) {
+		string [] fruits = new string [3];
+		fruit[0] = "Mango";
+		fruit[1[ = "apple";
+		fruit[2] = "apple";
+		fruit[3] = "Strawberry";
+		System.out.println(fruits[1]);
+	}
+
+}

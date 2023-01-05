@@ -1,0 +1,67 @@
+
+public class Conditions {
+	public static void main (String[] args) {
+		String name = "Chris";
+		
+		// WEEK@2 CONDITIONS
+		if(name == "Chris") {
+			System.out.println("Hello im Chris");
+		
+		} else {
+			System.out.println("You are not Chris");
+			
+		}		
+			
+			int age = 13;
+			
+			if(age >= 16) {
+				System.out.println("You can get your lincese!");
+			}  else {
+				System.out.println("Please wait" + "  " + ( 16 - age )+ "year(s) to get your lincese");
+			
+			}
+			
+			double costOfMilk = 2;
+			
+			if(costOfMilk <= 2) {
+				System.out.print("Buying two");
+			} else if (costOfMilk <= 5 ) {
+				System.out.println("Buying 1");
+			} else {
+				System.out.println("Not Buying any milk ");
+			}
+			//////QUESTION ; why does theses two break on the console.
+
+			char grade = 'C';
+				
+			switch (grade) {
+				case 'A' :
+					System.out.println("90%");
+					break;
+				case 'B' :
+					System.out.println("80%");
+					break;
+				case 'C' :
+					System.out.println("70%");
+					break;
+				
+				
+				default :
+					System.out.println("0%");
+				
+		}
+			
+			if (5 == 5) {
+				if (4 == 4) {
+					System.out.println("5 is 5 and 4 is 4");
+				} else {
+					System.out.print("5 is 5");
+				}
+	}
+			if (5 == 5 && 4 ==4) {
+				System.out.println("yes");
+				
+				System.out.print(2 == 2 );
+			}
+	}
+}

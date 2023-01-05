@@ -1,0 +1,19 @@
+
+public class Conditions {
+	public static void main (String[] args) {
+		String name = "Chris";
+		
+		if(name == "Chris") {
+			System.out.println("Hello Chris");
+		
+			String name = "Chris";
+			
+		if(name == "Chris") {
+				System.out.println("Hello Chris");
+	
+		}	
+			
+			
+		
+	}
+}

@@ -1,0 +1,69 @@
+
+public class testproject {
+ public static void main (String[] args) {
+	 
+	 
+	 
+	 //BOOLEAN OPRERATIONS WEEK2 
+	 
+	 
+	 
+	 
+	 System.out.println(2 == 2); 
+	 System.out.println(2 > 5);
+	 System.out.println(3 <= 5);
+	 System.out.println(5 <= 5);
+	 // && and || or
+	 System.out.println (2 == 2 && 2 < 5);
+	 
+	System.out.print(true && true);
+	System.out.println(true && false);
+	System.out.println(true || true);
+	System.out.println(false || false);
+	System.out.println(2 == 2 || 1 == 5);
+	System.out.println(2 == 2 && 1 == 5);
+	
+	
+	public static void main (String[] args)  {
+		//Pushing to git from computer
+		
+		
+		
+	/* cd to desktop (question is it always going to be cd desktop or do i have other options.
+	// mkdir git-tutorial  (question why mkdir and is git tutotial a name to a file or a repspotory ?
+	// cd     git-tutorial 
+	// touch    README.md (question what why README.md and will i be using it alot if so how
+	// git init (question:whta does this command do?
+	//git status (showing its on master branch)
+	//git add     README.md
+	// git status to show changes that are going to get commited
+	// git commit -m "first commit" (question what are we doing at this point
+	//git branch -M main
+	// git remote add origin (add the new resposotory url)
+	*/ git push -u origin main
+		
+		
+		
+		
+		
+		/* 
+		 * this is a simple java program
+		 * 
+		 * call this file  Example.java.
+		 */
+		
+		  
+		int var1;
+		int var2;
+		var1 = 1024; 
+		
+		
+		System.out.println("var1 contains " + var1);
+		var2 = var1 / 2;
+		
+		System.out.println("Var2 contains var1 /2: ");
+		System.out.println(var2);
+		}
+		
+ }
+}

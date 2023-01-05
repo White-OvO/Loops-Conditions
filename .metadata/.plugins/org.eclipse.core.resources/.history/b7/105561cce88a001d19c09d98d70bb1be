@@ -1,0 +1,15 @@
+package week2_conditions;
+
+public class week2notesprt2 {	public static void main (String[] args)
+	
+	if ( ( a*b) % 2 == 0) {
+		System.out.println("Even");
+	} else {
+		System.out.println("Odd");
+	}
+	
+	
+	
+}
+
+}

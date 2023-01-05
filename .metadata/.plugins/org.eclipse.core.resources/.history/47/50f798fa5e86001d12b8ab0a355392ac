@@ -1,0 +1,39 @@
+
+public class Conditions {
+	public static void main (String[] args) {
+		String name = "Chris";
+		
+		
+		if(name == "Chris") {
+			System.out.println("Hello Chris");
+		
+		} else {
+			System.out.println("You are not Chris");
+			
+		}		
+			
+			int age = 13;
+			
+			if(age >= 16) {
+				System.out.println("You can get your lincese!");
+			}  else {
+				System.out.println("Please wait" + "  " + ( 16 - age )+ "year(s) to get your lincese");
+			
+			}
+			
+			double costOfMilk = 2;
+			
+			if(costOfMilk <= 2) {
+				System.out.print("Buying two");
+			} else if (costOfMilk <= 5 ) {
+				System.out.println("Buying 1");
+			} else {
+				System.out.println("Not Buying any milk");
+				
+			}
+				
+		}
+	
+		
+	}
+}

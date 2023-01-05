@@ -1,0 +1,12 @@
+package youtube.tut;
+
+public class pratice {
+	public static void main(String[] args) {
+		int avalilablePlaneSeats = 5;
+		
+		char[] avaliablePlaneSeats;
+		System.out.println(avaliablePlaneSeats);
+		
+	}
+	
+}

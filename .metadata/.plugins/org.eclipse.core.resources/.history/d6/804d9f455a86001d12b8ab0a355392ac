@@ -1,0 +1,25 @@
+
+public class Conditions {
+	public static void main (String[] args) {
+		String name = "Chris";
+		
+		
+		if(name == "Chris") {
+			System.out.println("Hello Chris");
+		
+		} else {
+			System.out.println("You are not Chris");
+			
+			
+			
+			int age = 18;
+			
+			if(age >= 16) {
+				System.out.println("You can get your lincese!");
+			}
+	
+		}
+			
+		
+	}
+}

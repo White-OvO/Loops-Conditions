@@ -1,0 +1,11 @@
+package week2_conditions;
+
+public class conditionals {
+public static class main (String[] args) {
+	String name = "Tom";
+	
+	if  (name == "Tom") {
+			System.out.println("Hello Tom!"); 
+
+}
+}
