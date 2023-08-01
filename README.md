@@ -14,3 +14,8 @@ this java program is pre designed with a variable name and conditions , for inst
 conditions and loops for more pratice. these do not contain a input from a user yet already set variables and conditions. which can be manupilated by the programmer.
 
 ![Screen Shot 2023-08-01 at 8 32 50 AM](https://github.com/White-OvO/Loops-Conditions/assets/120700219/848eb211-1fc1-4508-a85b-0dddbc385803)
+
+
+## weeek 4 assignment packag(
+
+![Screen Shot 2023-08-01 at 8 36 22 AM](https://github.com/White-OvO/Loops-Conditions/assets/120700219/eec74b7e-63a1-4ee3-9b3e-440bfcf893c4)
