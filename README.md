@@ -16,6 +16,13 @@ conditions and loops for more pratice. these do not contain a input from a user 
 ![Screen Shot 2023-08-01 at 8 32 50 AM](https://github.com/White-OvO/Loops-Conditions/assets/120700219/848eb211-1fc1-4508-a85b-0dddbc385803)
 
 
-## weeek 4 assignment packag(
+## weeek 4 assignment packag(week4 project)
+
+this program is for promineo tech homework week 4
+
+- The code compares arrays and array lists in Java.
+- It makes an array and an array list of fruits and prints them.
+- It uses methods to manipulate and check the array list.
+- It uses comments to describe the code.
 
 ![Screen Shot 2023-08-01 at 8 36 22 AM](https://github.com/White-OvO/Loops-Conditions/assets/120700219/eec74b7e-63a1-4ee3-9b3e-440bfcf893c4)
